@@ -50,7 +50,7 @@ I am a 19-year-old **Electrical Engineering** student at a public university wit
 <p>Feel free to reach out if you want to collaborate on a project, talk about tech, or just say hi!</p>
 
 <p>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tahakazemi.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin-id">
